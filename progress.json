@@ -1,32 +1,5 @@
 [
   {
-    "exercise_name": "under-control",
-    "started_at": 1786590520.980909,
-    "completed_at": 1786590522.523813,
-    "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "undo-init",
-    "started_at": 1786590718.373312,
-    "completed_at": 1786590719.867267,
-    "comments": [
-      "You have successfully undone the init operation!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "stage-fright",
-    "started_at": 1786757552.827321,
-    "completed_at": 1786757554.177052,
-    "comments": [
-      "Great work! You have successfully checked in all the actors!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "grocery-shopping",
     "started_at": 1786760941.320185,
     "completed_at": 1786760942.671685,
@@ -45,6 +18,22 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "log-and-order",
+    "started_at": 1786956518.278563,
+    "completed_at": 1786956519.713832,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786757552.827321,
+    "completed_at": 1786757554.177052,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "staging-intervention",
     "started_at": 1786953923.249811,
     "completed_at": 1786953924.590301,
@@ -54,10 +43,30 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "log-and-order",
-    "started_at": 1786956518.278563,
-    "completed_at": 1786956519.713832,
-    "comments": [],
+    "exercise_name": "under-control",
+    "started_at": 1786590520.980909,
+    "completed_at": 1786590522.523813,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786590718.373312,
+    "completed_at": 1786590719.867267,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787125263.932699,
+    "completed_at": 1787125332.067713,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
     "status": "Completed"
   }
 ]
